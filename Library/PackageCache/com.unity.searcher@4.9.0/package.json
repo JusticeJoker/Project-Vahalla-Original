@@ -1,0 +1,26 @@
+{
+  "name": "com.unity.searcher",
+  "displayName": "Searcher",
+  "version": "4.9.0",
+  "unity": "2019.1",
+  "description": "General search window for use in the Editor. First target use is for GraphView node search.",
+  "keywords": [
+    "search",
+    "searcher"
+  ],
+  "upmCi": {
+    "footprint": "fa8e8e1aa984fbe045286880e15fa0bb4b487457"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git",
+    "type": "git",
+    "revision": "ee87d9d0c9eccf844028a126bfa5dfbe8435ad64"
+  },
+  "samples": [
+    {
+      "displayName": "Searchers Samples",
+      "description": "Some Searcher's basic examples",
+      "path": "Samples~"
+    }
+  ]
+}
